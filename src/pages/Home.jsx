@@ -60,7 +60,7 @@ const HeroHeading = () => (
       Learning Path With
       <br />
       <span className="text-transparent bg-clip-text bg-gradient-to-r from-sky-400 to-indigo-500 whitespace-nowrap">
-        Confidence & Clarity
+        Confidence
       </span>
     </h1>
   </div>
